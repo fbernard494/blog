@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://dromotherm.github.io/blog/</link>
+    <atom:link href= "http://dromotherm.github.io/blog/flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Oct 2019 11:46:27 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 11:46:27 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+    
+      <item>
+        <title>Project Kickoff</title>
+        <description>&lt;p&gt;Le Kickoff se déroulera le 17 décembre 2019 de 10h à 13h dans les locaux du Cerema à la Part-Dieu, à la direction technique territoires et ville du Cerema, au 2, rue Antoine Charial - 69426 Lyon Cedex 03&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://maps.google.fr/maps?oe=utf-8&amp;amp;client=firefox-a&amp;amp;safe=images&amp;amp;q=2+rue+antoine+charial&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=2+Rue+Antoine+Charial,+69003+Lyon,+Rh%C3%B4ne,+Rh%C3%B4ne-Alpes&amp;amp;gl=fr&amp;amp;t=m&amp;amp;z=14&amp;amp;ll=45.758488,4.863417&amp;amp;source=embed&quot;&gt;comment s’y rendre ?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Salle “Lucie Aubrac”, sous-sol du bâtiment&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://dromotherm.github.io/blog/2019/09/project_kickoff/</link>
+        <guid isPermaLink="true">http://dromotherm.github.io/blog/2019/09/project_kickoff/</guid>
+        
+        
+        <category>project management</category>
+        
+        <category>dromotherm</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+dromotherm_rsa
+dromotherm_rsa.pub
+Gemfile.lock
