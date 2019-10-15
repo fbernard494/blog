@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: project management | DROMOTHERM]]></title>
+  <link href="http://dromotherm.github.io/categories/project-management/atomfr.xml" rel="self"/>
+  <link href="http://dromotherm.github.io/"/>
+  <updated>2019-10-15T18:10:54+00:00</updated>
+  <id>http://dromotherm.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[contact@dromotherm.fr]]></email>
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Project Kickoff]]></title>
+    <link href="http://dromotherm.github.io/2019/09/project_kickoff/"/>
+    <updated>2019-09-29T00:00:00+00:00</updated>
+    <id>http://dromotherm.github.io/2019/09/project_kickoff</id>
+    <content type="html"><![CDATA[<p>Le Kickoff se déroulera le 17 décembre 2019 de 10h à 13h dans les locaux du Cerema à la Part-Dieu, à la direction technique territoires et ville du Cerema, au 2, rue Antoine Charial - 69426 Lyon Cedex 03</p>
+
+<p><a href="https://maps.google.fr/maps?oe=utf-8&amp;client=firefox-a&amp;safe=images&amp;q=2+rue+antoine+charial&amp;ie=UTF8&amp;hq=&amp;hnear=2+Rue+Antoine+Charial,+69003+Lyon,+Rh%C3%B4ne,+Rh%C3%B4ne-Alpes&amp;gl=fr&amp;t=m&amp;z=14&amp;ll=45.758488,4.863417&amp;source=embed">comment s’y rendre ?</a></p>
+
+<p>Salle “Lucie Aubrac”, sous-sol du bâtiment</p>
+]]></content>
+  </entry>
+  
+</feed>

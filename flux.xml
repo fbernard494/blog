@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>http://dromotherm.github.io/blog/</link>
     <atom:link href= "http://dromotherm.github.io/blog/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Oct 2019 17:29:45 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Oct 2019 17:29:45 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2019 18:10:54 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2019 18:10:54 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -23,9 +23,9 @@
         <guid isPermaLink="true">http://dromotherm.github.io/blog/2019/09/project_kickoff/</guid>
         
         
-        <category>project management</category>
-        
         <category>dromotherm</category>
+        
+        <category>project management</category>
         
       </item>
     

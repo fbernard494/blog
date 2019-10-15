@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: dromotherm | DROMOTHERM]]></title>
-  <link href="http://dromotherm.github.io/categories/dromotherm/atom.xml" rel="self"/>
+  <link href="http://dromotherm.github.io/categories/dromotherm/atomen.xml" rel="self"/>
   <link href="http://dromotherm.github.io/"/>
-  <updated>2019-10-15T17:29:45+00:00</updated>
+  <updated>2019-10-15T18:10:54+00:00</updated>
   <id>http://dromotherm.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Our theory]]></title>
+    <link href="http://dromotherm.github.io/2019/10/dromotherm_theory/"/>
+    <updated>2019-10-14T00:00:00+00:00</updated>
+    <id>http://dromotherm.github.io/2019/10/dromotherm_theory</id>
+    <content type="html"><![CDATA[<p>The dromotherm project is about mathematics</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Our philosophy]]></title>
+    <link href="http://dromotherm.github.io/2019/10/dromotherm_philosophy/"/>
+    <updated>2019-10-12T00:00:00+00:00</updated>
+    <id>http://dromotherm.github.io/2019/10/dromotherm_philosophy</id>
+    <content type="html"><![CDATA[<p>The dromotherm project focuses on creating many small low temperature heat stocks, in order to promote the replicability of surface geothermal techniques, especially in cities where there is no free space available for horizontal probes</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Project Kickoff]]></title>
