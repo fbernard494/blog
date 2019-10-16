@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: project management | DROMOTHERM]]></title>
-  <link href="http://dromotherm.github.io/categories/project-management/atomfr.xml" rel="self"/>
-  <link href="http://dromotherm.github.io/"/>
-  <updated>2019-10-16T06:46:59+00:00</updated>
+  <link href="http://dromotherm.github.io/blog/categories/project-management/atomfr.xml" rel="self"/>
+  <link href="http://dromotherm.github.io/blog/"/>
+  <updated>2019-10-16T12:03:24+00:00</updated>
   <id>http://dromotherm.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -15,7 +15,7 @@
   
   <entry>
     <title type="html"><![CDATA[Project Kickoff]]></title>
-    <link href="http://dromotherm.github.io/2019/09/project_kickoff/"/>
+    <link href="http://dromotherm.github.io/blog/2019/09/project_kickoff/"/>
     <updated>2019-09-29T00:00:00+00:00</updated>
     <id>http://dromotherm.github.io/2019/09/project_kickoff</id>
     <content type="html"><![CDATA[<p>Le Kickoff se déroulera le 17 décembre 2019 de 10h à 13h dans les locaux du Cerema à la Part-Dieu, à la direction technique territoires et ville du Cerema, au 2, rue Antoine Charial - 69426 Lyon Cedex 03</p>
