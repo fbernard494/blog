@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>http://dromotherm.github.io/blog/</link>
     <atom:link href= "http://dromotherm.github.io/blog/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Nov 2019 18:52:05 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Nov 2019 18:52:05 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Nov 2019 19:25:41 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Nov 2019 19:25:41 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -23,11 +23,11 @@ connectés. Son code est opensource.&lt;/p&gt;
 
 &lt;p&gt;Cette architecture permet de travailler avec deux types de fréquences radio : 868 Mhz et 169 Mhz et offre la possibilité de se raccorder à un bus industriel de type RS485, que l’on
 rencontre fréquemment dans les chaufferies gaz des bâtiments tertiaires, ce qui fait de THEMIS un agrégateur de données puissant, bénéficiant de la redoutable efficacité du protocole MQTT (Message Queuing Telemetry Transport). 
-La bande 169Mhz permet à THEMIS d’équiper de grands bâtiments avec des capteurs sans fil.&lt;/p&gt;
+Grâce a La bande 169Mhz, THEMIS est en mesure d’équiper des bâtiments de taille importante avec des capteurs sans fil.&lt;/p&gt;
 
-&lt;p&gt;Sur un bâtiment voire sur un ensemble de bâtiments, THEMIS est capable de rassembler au sein d’une même base de données NoSQL chronologique 
-une bonne partie de ce qui est mesuré par les capteurs existants et de rajouter d’éventuels renseignements manquants. Le but est de capitaliser les informations recueillies, afin d’offir une matière numérique cohérente 
-à des algorithmes intelligents permettant de quantifier le comportement du bâtiment et donc d’en optimiser la gestion.&lt;/p&gt;
+&lt;p&gt;Sur un bâtiment voire sur un ensemble de bâtiments, THEMIS est capable de rassembler au sein d’une même base NoSQL de données chronologiques 
+une bonne partie de ce qui est mesuré par les capteurs existants et de rajouter d’éventuelles informations manquantes. Le but est de capitaliser le recueil de données, afin d’offir une matière numérique cohérente 
+à des algorithmes intelligents permettant de quantifier le comportement du bâtiment et d’en optimiser la gestion énergétique.&lt;/p&gt;
 
 &lt;p&gt;THEMIS offre une importante variété de mesures : température intérieure et extérieure, hygrométrie, CO2, puissance électrique instantanée, impulsions gaz, comptage de chaleur…&lt;/p&gt;
 
@@ -49,7 +49,7 @@ identifie d’un seul coup d’oeil les consommations énergétiques dues à l�
 
 &lt;p&gt;&lt;img src=&quot;/blog/assets/themis/psychrometric.png&quot; alt=&quot;psychrometric diagram&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Avec cet outillage, THEMIS est l’outil idéal pour un bureau d’étude en efficacité énergétique. Il est aussi très pertinent dans le domaine de la maintenance pour le gestionnaire de bâtiments.&lt;/p&gt;
+&lt;p&gt;Avec cet outillage logiciel, THEMIS est l’équipement idéal des bureaux d’études en efficacité énergétique. Il est aussi très pertinent dans le domaine de la maintenance pour le gestionnaire de bâtiments.&lt;/p&gt;
 
 &lt;p&gt;Le tableau de bord ci après détaille le suivi des circuits d’une chaufferie gaz. Les courbes vertes et rouge sont respectivement la température extérieure et la température de départ dans les circuits. Les fonctionnements de pompe sont 
 matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies sont représentés par des traits verticaux bleus (ouvertures) et noirs (fermeture).&lt;/p&gt;
