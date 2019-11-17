@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>http://dromotherm.github.io/blog/</link>
     <atom:link href= "http://dromotherm.github.io/blog/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Nov 2019 18:21:13 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Nov 2019 18:21:13 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Nov 2019 18:52:05 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Nov 2019 18:52:05 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -22,7 +22,8 @@ connectés. Son code est opensource.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/blog/assets/themis/ecosysteme_version1.png&quot; alt=&quot;architecture d'un réseau de monitoring themis&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Cette architecture permet de travailler avec deux types de fréquences radio : 868 Mhz et 169 Mhz et offre la possibilité de se raccorder à un bus industriel de type RS485, que l’on
-rencontre fréquemment dans les chaufferies gaz des bâtiments tertiaires, ce qui fait de THEMIS un agrégateur de données puissant, bénéficiant de la redoutable efficacité du protocole MQTT (Message Queuing Telemetry Transport).&lt;/p&gt;
+rencontre fréquemment dans les chaufferies gaz des bâtiments tertiaires, ce qui fait de THEMIS un agrégateur de données puissant, bénéficiant de la redoutable efficacité du protocole MQTT (Message Queuing Telemetry Transport). 
+La bande 169Mhz permet à THEMIS d’équiper de grands bâtiments avec des capteurs sans fil.&lt;/p&gt;
 
 &lt;p&gt;Sur un bâtiment voire sur un ensemble de bâtiments, THEMIS est capable de rassembler au sein d’une même base de données NoSQL chronologique 
 une bonne partie de ce qui est mesuré par les capteurs existants et de rajouter d’éventuels renseignements manquants. Le but est de capitaliser les informations recueillies, afin d’offir une matière numérique cohérente 
