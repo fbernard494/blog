@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Themis, un Building Operating System (BOS) opensource | DROMOTHERM</title>
+<title>Themis, un Building Operating System (BOS) | DROMOTHERM</title>
 <meta name="generator" content="Jekyll v3.8.6" />
-<meta property="og:title" content="Themis, un Building Operating System (BOS) opensource" />
+<meta property="og:title" content="Themis, un Building Operating System (BOS)" />
 <meta name="author" content="alex" />
 <meta property="og:locale" content="fr" />
 <meta name="description" content="THEMIS est un réseau de monitoring NON INTRUSIF orienté performance énérgétique du bâtiment, qui utilise le logiciel EmonCMS comme grapheur et comme stockage de données. EmonCMS est une base de données NoSQL dédiée au monitoring temps réel à base d’objets connectés. Son code est opensource." />
@@ -16,7 +16,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-11-17T00:00:00+00:00" />
 <script type="application/ld+json">
-{"dateModified":"2019-11-17T00:00:00+00:00","datePublished":"2019-11-17T00:00:00+00:00","description":"THEMIS est un réseau de monitoring NON INTRUSIF orienté performance énérgétique du bâtiment, qui utilise le logiciel EmonCMS comme grapheur et comme stockage de données. EmonCMS est une base de données NoSQL dédiée au monitoring temps réel à base d’objets connectés. Son code est opensource.","mainEntityOfPage":{"@type":"WebPage","@id":"http://dromotherm.github.io/blog/2019/11/themis_bos/"},"@type":"BlogPosting","url":"http://dromotherm.github.io/blog/2019/11/themis_bos/","author":{"@type":"Person","name":"alex"},"headline":"Themis, un Building Operating System (BOS) opensource","@context":"https://schema.org"}</script>
+{"dateModified":"2019-11-17T00:00:00+00:00","datePublished":"2019-11-17T00:00:00+00:00","description":"THEMIS est un réseau de monitoring NON INTRUSIF orienté performance énérgétique du bâtiment, qui utilise le logiciel EmonCMS comme grapheur et comme stockage de données. EmonCMS est une base de données NoSQL dédiée au monitoring temps réel à base d’objets connectés. Son code est opensource.","mainEntityOfPage":{"@type":"WebPage","@id":"http://dromotherm.github.io/blog/2019/11/themis_bos/"},"@type":"BlogPosting","url":"http://dromotherm.github.io/blog/2019/11/themis_bos/","author":{"@type":"Person","name":"alex"},"headline":"Themis, un Building Operating System (BOS)","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css">
   <link rel="stylesheet" href="/blog/assets/css/all.css"><link type="application/atom+xml" rel="alternate" href="http://dromotherm.github.io/blog/feed.xml" title="DROMOTHERM" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-148961563-1"></script>
@@ -74,7 +74,7 @@
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Themis, un Building Operating System (BOS) opensource</h1>
+    <h1 class="post-title p-name" itemprop="name headline">Themis, un Building Operating System (BOS)</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="2019-11-17T00:00:00+00:00" itemprop="datePublished">Nov 17, 2019
       </time>
@@ -136,6 +136,11 @@ identifie d’un seul coup d’oeil les consommations énergétiques dues à l�
 <p>Le tableau de bord ci après détaille le suivi des circuits d’une chaufferie gaz. Les courbes vertes et rouge sont respectivement la température extérieure et la température de départ dans les circuits. Les fonctionnements de pompe sont 
 matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies sont représentés par des traits verticaux bleus (ouvertures) et noirs (fermeture).</p>
 
+<p><img src="/blog/assets/themis/monitoring_circuit_eau_chaude_isolationOK.png" alt="suivi chaufferie OK" class="img-responsive" />
+<img src="/blog/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png" alt="suivi chaufferie pb vanne" class="img-responsive" /></p>
+
+<p><img src="/blog/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png" alt="suivi chaufferie passoire" class="img-responsive" /></p>
+
 <p>Le second graphique est typique d’une défaillance de vanne 3 voies. Le système mutiplie les ouvertures mais 
 la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pour précéder au remplacement.</p>
 
@@ -143,11 +148,6 @@ la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pou
 Le troisième graphique lui aussi illustre un fonctionnement normal. Il n’y a pas de réduits en semaine ou presque plus car il s’agit d’une passoire énergétique : l’intelligence 
 artificielle ayant modélisé le comportement du bâtiment est arrivée à la conclusion que la température chutait trop entre le soir et le matin et qu’il était nécessaire de maintenir le bâtiment en chauffe pendant la nuit pour garantir un confort minimal à l’arrivée des agents le matin. 
 En week end, le réduit est pratiqué mais sur une période plutôt courte.</p>
-
-<p><img src="/blog/assets/themis/monitoring_circuit_eau_chaude_isolationOK.png" alt="suivi chaufferie OK" class="img-responsive" />
-<img src="/blog/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png" alt="suivi chaufferie pb vanne" class="img-responsive" /></p>
-
-<p><img src="/blog/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png" alt="suivi chaufferie passoire" class="img-responsive" /></p>
 
 <p>Lorsque THEMIS sera arrivé à maturité, embarquant à son bord des algorithmes d’intelligence artificielle et des fonctions de pilotage intelligent, 
 il pourra, dans une optique décentralisée et autonome, jouer le rôle de contrôleur énergétique pour smartgrid multi-énergies.</p>

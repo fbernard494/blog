@@ -5,13 +5,13 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>http://dromotherm.github.io/blog/</link>
     <atom:link href= "http://dromotherm.github.io/blog/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Nov 2019 19:25:41 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Nov 2019 19:25:41 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Nov 2019 19:33:33 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Nov 2019 19:33:33 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
       <item>
-        <title>Themis, un Building Operating System (BOS) opensource</title>
+        <title>Themis, un Building Operating System (BOS)</title>
         <description>&lt;p&gt;THEMIS est un réseau de monitoring NON INTRUSIF orienté performance énérgétique du
 bâtiment, qui utilise le logiciel &lt;a href=&quot;http://github.com/emoncms/emoncms&quot;&gt;EmonCMS&lt;/a&gt; comme grapheur et comme stockage de données.
 EmonCMS est une base de données NoSQL dédiée au monitoring temps réel à base d’objets
@@ -54,6 +54,11 @@ identifie d’un seul coup d’oeil les consommations énergétiques dues à l�
 &lt;p&gt;Le tableau de bord ci après détaille le suivi des circuits d’une chaufferie gaz. Les courbes vertes et rouge sont respectivement la température extérieure et la température de départ dans les circuits. Les fonctionnements de pompe sont 
 matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies sont représentés par des traits verticaux bleus (ouvertures) et noirs (fermeture).&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/blog/assets/themis/monitoring_circuit_eau_chaude_isolationOK.png&quot; alt=&quot;suivi chaufferie OK&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;/blog/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png&quot; alt=&quot;suivi chaufferie pb vanne&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png&quot; alt=&quot;suivi chaufferie passoire&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Le second graphique est typique d’une défaillance de vanne 3 voies. Le système mutiplie les ouvertures mais 
 la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pour précéder au remplacement.&lt;/p&gt;
 
@@ -61,11 +66,6 @@ la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pou
 Le troisième graphique lui aussi illustre un fonctionnement normal. Il n’y a pas de réduits en semaine ou presque plus car il s’agit d’une passoire énergétique : l’intelligence 
 artificielle ayant modélisé le comportement du bâtiment est arrivée à la conclusion que la température chutait trop entre le soir et le matin et qu’il était nécessaire de maintenir le bâtiment en chauffe pendant la nuit pour garantir un confort minimal à l’arrivée des agents le matin. 
 En week end, le réduit est pratiqué mais sur une période plutôt courte.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/themis/monitoring_circuit_eau_chaude_isolationOK.png&quot; alt=&quot;suivi chaufferie OK&quot; class=&quot;img-responsive&quot; /&gt;
-&lt;img src=&quot;/blog/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png&quot; alt=&quot;suivi chaufferie pb vanne&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png&quot; alt=&quot;suivi chaufferie passoire&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorsque THEMIS sera arrivé à maturité, embarquant à son bord des algorithmes d’intelligence artificielle et des fonctions de pilotage intelligent, 
 il pourra, dans une optique décentralisée et autonome, jouer le rôle de contrôleur énergétique pour smartgrid multi-énergies.&lt;/p&gt;
