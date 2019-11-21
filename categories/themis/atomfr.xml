@@ -4,7 +4,7 @@
   <title><![CDATA[Category: themis | DROMOTHERM]]></title>
   <link href="http://dromotherm.github.io/blog/categories/themis/atomfr.xml" rel="self"/>
   <link href="http://dromotherm.github.io/blog/"/>
-  <updated>2019-11-17T19:37:42+00:00</updated>
+  <updated>2019-11-21T09:17:00+00:00</updated>
   <id>http://dromotherm.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -57,8 +57,8 @@ identifie d’un seul coup d’oeil les consommations énergétiques dues à l�
 
 <p>Avec cet outillage logiciel, THEMIS est l’équipement idéal des bureaux d’études en efficacité énergétique. Il est aussi très pertinent dans le domaine de la maintenance pour le gestionnaire de bâtiments.</p>
 
-<p>Le tableau de bord ci après détaille le suivi des circuits d’une chaufferie gaz. Les courbes vertes et rouge sont respectivement la température extérieure et la température de départ dans les circuits. Les fonctionnements de pompe sont 
-matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies sont représentés par des traits verticaux bleus (ouvertures) et noirs (fermeture).</p>
+<p>Le tableau de bord ci après détaille le suivi des circuits d’une chaufferie gaz. Les courbes verte et rouge sont respectivement la température extérieure et la température de départ dans les circuits. Les fonctionnements de pompe sont 
+matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies sont représentées par des traits verticaux bleus (ouvertures) et noirs (fermetures).</p>
 
 <p><img src="/blog/assets/themis/monitoring_circuit_eau_chaude_isolationOK.png" alt="suivi chaufferie OK" class="img-responsive" />
 <img src="/blog/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png" alt="suivi chaufferie pb vanne" class="img-responsive" /></p>
@@ -66,11 +66,11 @@ matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies son
 <p><img src="/blog/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png" alt="suivi chaufferie passoire" class="img-responsive" /></p>
 
 <p>Le second graphique est typique d’une défaillance de vanne 3 voies. Le système mutiplie les ouvertures mais 
-la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pour précéder au remplacement.</p>
+la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pour procéder au remplacement.</p>
 
 <p>Le premier graphique illustre un fonctionnement normal : on distingue les réduits. 
 Le troisième graphique lui aussi illustre un fonctionnement normal. Il n’y a pas de réduits en semaine ou presque plus car il s’agit d’une passoire énergétique : l’intelligence 
-artificielle ayant modélisé le comportement du bâtiment est arrivée à la conclusion que la température chutait trop entre le soir et le matin et qu’il était nécessaire de maintenir le bâtiment en chauffe pendant la nuit pour garantir un confort minimal à l’arrivée des agents le matin. 
+artificielle ayant modélisé le comportement du bâtiment est arrivée à la conclusion que la température chutait trop entre le soir et le matin et qu’il était nécessaire de maintenir le bâtiment en chauffe pendant la nuit pour garantir un confort minimal à l’arrivée des occupants le matin. 
 En week end, le réduit est pratiqué mais sur une période plutôt courte.</p>
 
 <p>Lorsque THEMIS sera arrivé à maturité, embarquant à son bord des algorithmes d’intelligence artificielle et des fonctions de pilotage intelligent, 
