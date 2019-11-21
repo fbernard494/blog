@@ -1,1 +1,1 @@
-Sitemap: https://www.dromotherm.com/sitemap.xml
+Sitemap: http://dromotherm.github.io/blog/sitemap.xml
