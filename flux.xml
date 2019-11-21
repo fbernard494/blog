@@ -3,10 +3,10 @@
   <channel>
     <title>DROMOTHERM</title>
     <description>On the way to a new energetic paradigm...  .</description>
-    <link>http://dromotherm.github.io/blog/</link>
-    <atom:link href= "http://dromotherm.github.io/blog/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Nov 2019 16:38:24 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2019 16:38:24 +0000</lastBuildDate>
+    <link>https://www.dromotherm.com/blog/</link>
+    <atom:link href= "https://www.dromotherm.com/blog/flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Nov 2019 19:23:47 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2019 19:23:47 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -75,8 +75,8 @@ il pourra, dans une optique décentralisée et autonome, jouer le rôle de contr
 &lt;p&gt;&lt;img src=&quot;/blog/assets/smartgrid_small.png&quot; alt=&quot;dromotherm&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://dromotherm.github.io/blog/2019/11/themis_bos/</link>
-        <guid isPermaLink="true">http://dromotherm.github.io/blog/2019/11/themis_bos/</guid>
+        <link>https://www.dromotherm.com/blog/2019/11/themis_bos/</link>
+        <guid isPermaLink="true">https://www.dromotherm.com/blog/2019/11/themis_bos/</guid>
         
         
         <category>themis</category>
@@ -92,8 +92,8 @@ il pourra, dans une optique décentralisée et autonome, jouer le rôle de contr
 &lt;p&gt;Salle “Lucie Aubrac”, sous-sol du bâtiment&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://dromotherm.github.io/blog/2019/09/project_kickoff/</link>
-        <guid isPermaLink="true">http://dromotherm.github.io/blog/2019/09/project_kickoff/</guid>
+        <link>https://www.dromotherm.com/blog/2019/09/project_kickoff/</link>
+        <guid isPermaLink="true">https://www.dromotherm.com/blog/2019/09/project_kickoff/</guid>
         
         
         <category>dromotherm</category>
