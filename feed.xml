@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Nov 2019 16:17:04 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Nov 2019 16:17:04 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Nov 2019 16:59:32 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Nov 2019 16:59:32 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -43,7 +43,7 @@ on three pavilion-type dwellings in order to evaluate different thermal insulati
 
 &lt;p&gt;&lt;img src=&quot;/assets/themis/Energy.png&quot; alt=&quot;suivi des consommations énergétiques&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Given the precision of its monitoring, THEMIS makes it easy to distinguish what is relevant to uses (related to the residents’habits or behaviours) from what 
+&lt;p&gt;Given the precision of its monitoring, THEMIS makes it easy to distinguish what is relevant to uses (ie related to the residents’habits or behaviours) from what 
 is specific to the building’s performance, as shown by the following illustration, where we can identify at a glance the energy consumption due to the use of an air conditioner.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/themis/Energie_ConfortTRH.png&quot; alt=&quot;simulation des pertes par infiltrations&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
