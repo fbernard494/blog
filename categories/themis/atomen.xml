@@ -4,7 +4,7 @@
   <title><![CDATA[Category: themis | DROMOTHERM]]></title>
   <link href="https://www.dromotherm.com/categories/themis/atomen.xml" rel="self"/>
   <link href="https://www.dromotherm.com/"/>
-  <updated>2019-11-23T15:13:04+00:00</updated>
+  <updated>2019-11-23T15:16:54+00:00</updated>
   <id>https://www.dromotherm.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -73,7 +73,7 @@ A replacement has to be achieved as soon as possible.</p>
 <p>The first graph illustrates a normal behaviour : at night, the hot water supply is reduced.</p>
 
 <p>The third graph represents the heat regulation on a poorly insulated building : 
-while modeling the building’s behaviour, for periods of intense cold,  the artificial intelligence concluded that the temperature dropped too much between evening and morning and 
+while modeling the building’s behaviour, for periods of intense cold,  the artificial intelligence concluded that indoor temperature dropped too much between evening and morning and 
 that it was necessary to keep the building warm at night in order to ensure a basic comfort in morning time, when office work begins. 
 During weekends, a reduction is practiced for a rather short period of time.</p>
 
