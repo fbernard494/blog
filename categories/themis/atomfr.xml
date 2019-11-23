@@ -4,7 +4,7 @@
   <title><![CDATA[Category: themis | DROMOTHERM]]></title>
   <link href="https://www.dromotherm.com/categories/themis/atomfr.xml" rel="self"/>
   <link href="https://www.dromotherm.com/"/>
-  <updated>2019-11-23T15:16:54+00:00</updated>
+  <updated>2019-11-23T15:20:30+00:00</updated>
   <id>https://www.dromotherm.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -70,7 +70,7 @@ la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pou
 
 <p>Le premier graphique illustre un fonctionnement normal : on distingue les réduits. 
 Le troisième graphique lui aussi illustre un fonctionnement normal. Il n’y a pas de réduits en semaine ou presque plus car il s’agit d’une passoire énergétique : l’intelligence 
-artificielle ayant modélisé le comportement du bâtiment est arrivée à la conclusion que si on arrêtait de chauffer en dessous d’une certaine température à l’extérieur, la température intéreure chutait trop entre le soir et le matin et qu’il était nécessaire de maintenir le bâtiment en chauffe pendant la nuit pour garantir un confort minimal à l’arrivée des occupants le matin. 
+artificielle ayant modélisé le comportement du bâtiment est arrivée à la conclusion que si on arrêtait de chauffer en dessous d’une certaine température à l’extérieur, la température intérieure chutait trop entre le soir et le matin et qu’il était nécessaire de maintenir le bâtiment en chauffe pendant la nuit pour garantir un confort minimal à l’arrivée des occupants le matin. 
 En week end, le réduit est pratiqué mais sur une période plutôt courte.</p>
 
 <p>Lorsque THEMIS sera arrivé à maturité, embarquant à son bord des algorithmes d’intelligence artificielle et des fonctions de pilotage intelligent, 
