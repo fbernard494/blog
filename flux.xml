@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Nov 2019 21:58:15 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Nov 2019 21:58:15 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2019 11:18:14 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 11:18:14 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -55,9 +55,8 @@ identifie d’un seul coup d’oeil les consommations énergétiques dues à l�
 matérialisés en orange, les ouvertures et les fermetures de vannes 3 voies sont représentées par des traits verticaux bleus (ouvertures) et noirs (fermetures).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/themis/monitoring_circuit_eau_chaude_isolationOK.png&quot; alt=&quot;suivi chaufferie OK&quot; class=&quot;img-responsive&quot; /&gt;
-&lt;img src=&quot;/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png&quot; alt=&quot;suivi chaufferie pb vanne&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png&quot; alt=&quot;suivi chaufferie passoire&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/themis/monitoring_circuit_eau_chaude_defaut_vanne.png&quot; alt=&quot;suivi chaufferie pb vanne&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;img src=&quot;/assets/themis/monitoring_circuit_eau_chaude_batiment_passoire.png&quot; alt=&quot;suivi chaufferie passoire&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Le second graphique est typique d’une défaillance de vanne 3 voies. Le système mutiplie les ouvertures mais 
 la température dans le circuit ne bouge pas. Il faut appeler l’exploitant pour procéder au remplacement.&lt;/p&gt;
