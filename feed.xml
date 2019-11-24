@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Nov 2019 11:27:52 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Nov 2019 11:27:52 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2019 11:35:36 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 11:35:36 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
     
@@ -25,8 +25,8 @@ a standard communication protocol popular in industrial environments, such as bo
 benefiting from the high efficiency of the MQTT protocol (Message Queuing Telemetry Transport). 
 Thanks to the 169Mhz band, THEMIS is able to equip large buildings with wireless sensors.&lt;/p&gt;
 
-&lt;p&gt;On a building or a set of buildings, THEMIS is able to gather in real time existing measurements from available facilities and extra ones from new sensors,
-storing all the feeds in the the same NoSQL chronological database. The aim is to capitalize physical data in order to provide a coherent digital material to intelligent 
+&lt;p&gt;On a single building or on a set of buildings, THEMIS is able to gather in real time existing measurements from available facilities and extra ones from new sensors,
+storing all the feeds in the same NoSQL chronological database. The aim is to capitalize physical data in order to provide a coherent digital material to intelligent 
 algorithms so that they can quantify the building behaviour and optimize energy management.&lt;/p&gt;
 
 &lt;p&gt;THEMIS offers a wide variety of measurements: indoor and outdoor temperature, humidity, CO2, instantaneous electrical power, gas pulses, heat metering…&lt;/p&gt;
@@ -38,7 +38,7 @@ in order to assess the difference with the prescribed performance.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/themis/INFLOSSES.png&quot; alt=&quot;simulation des pertes par infiltrations&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The system was heavily tested on the field during an operation carried out by the social landlord Allier habitat, with measurements carried out over one year 
+&lt;p&gt;The system was heavily tested on the field during an operation funded by the social landlord Allier habitat, with measurements carried out over one year 
 on three pavilion-type dwellings in order to evaluate different thermal insulation techniques from the outside.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/themis/Energy.png&quot; alt=&quot;suivi des consommations énergétiques&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
