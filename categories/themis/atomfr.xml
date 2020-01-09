@@ -4,7 +4,7 @@
   <title><![CDATA[Category: themis | DROMOTHERM]]></title>
   <link href="https://www.dromotherm.com/categories/themis/atomfr.xml" rel="self"/>
   <link href="https://www.dromotherm.com/"/>
-  <updated>2020-01-09T20:15:49+00:00</updated>
+  <updated>2020-01-09T20:22:15+00:00</updated>
   <id>https://www.dromotherm.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
   
+  
+  <entry>
+    <title type="html"><![CDATA[Le système Themis en vidéo]]></title>
+    <link href="https://www.dromotherm.com/2020/01/ThemisVideo/"/>
+    <updated>2020-01-09T00:00:00+00:00</updated>
+    <id>https://www.dromotherm.com/2020/01/ThemisVideo</id>
+    <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/_a5tcsRNEdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Themis, un Building Operating System (BOS)]]></title>

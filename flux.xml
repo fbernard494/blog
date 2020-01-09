@@ -5,10 +5,23 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Jan 2020 20:15:49 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Jan 2020 20:15:49 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jan 2020 20:22:15 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jan 2020 20:22:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
+    
+      <item>
+        <title>Le système Themis en vidéo</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_a5tcsRNEdg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://www.dromotherm.com/2020/01/ThemisVideo/</link>
+        <guid isPermaLink="true">https://www.dromotherm.com/2020/01/ThemisVideo/</guid>
+        
+        
+        <category>themis</category>
+        
+      </item>
     
       <item>
         <title>Themis, un Building Operating System (BOS)</title>
