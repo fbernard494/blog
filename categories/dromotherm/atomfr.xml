@@ -4,7 +4,7 @@
   <title><![CDATA[Category: dromotherm | DROMOTHERM]]></title>
   <link href="https://www.dromotherm.com/categories/dromotherm/atomfr.xml" rel="self"/>
   <link href="https://www.dromotherm.com/"/>
-  <updated>2020-01-09T20:58:58+00:00</updated>
+  <updated>2020-01-18T15:52:17+00:00</updated>
   <id>https://www.dromotherm.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
   
+  
+  <entry>
+    <title type="html"><![CDATA[offres de stage]]></title>
+    <link href="https://www.dromotherm.com/2020/01/offres_de_stage/"/>
+    <updated>2020-01-18T00:00:00+00:00</updated>
+    <id>https://www.dromotherm.com/2020/01/offres_de_stage</id>
+    <content type="html"><![CDATA[<p>A la suite de la réunion de lancement du projet, 2 offres de stage ont été élaborées, la première portant sur la thématique énergie, la seconde sur les aspects mécaniques.</p>
+
+<h1 id="stage-énergie">Stage énergie</h1>
+
+<p><a href="/assets/stages/Offre_stage_2020_energie.pdf">télécharger l’offre de stage dromotherm énergie</a></p>
+
+<p><strong>Intitulé :</strong> dimensionnement/modélisation/choix de l’implantation d’un démonstrateur sur le site du Bourget de Lac à proximité de Chambéry. 
+Ce démonstrateur couplera :</p>
+<ul>
+  <li>un échangeur routier dromotherme de 30 m²,</li>
+  <li>un stockage thermique enterré de 45 m³ constitué de gravier saturé et équipé de corbeilles géothermiques,</li>
+  <li>un bâtiment en bois de 20 m² positionné sur le stockage thermique.</li>
+</ul>
+
+<p><strong>Durée du stage :</strong> 5 mois entre le 03/02/2020 et le 24/07/2020</p>
+
+<p><strong>Profil recherché :</strong> bonnes compétences en thermique- énergétique</p>
+
+<h1 id="stage-mécanique">Stage mécanique</h1>
+
+<p>A venir…</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Project Kickoff]]></title>
