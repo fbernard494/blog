@@ -4,7 +4,7 @@
   <title><![CDATA[Category: dromotherm | DROMOTHERM]]></title>
   <link href="https://www.dromotherm.com/categories/dromotherm/atomfr.xml" rel="self"/>
   <link href="https://www.dromotherm.com/"/>
-  <updated>2020-05-28T15:04:12+00:00</updated>
+  <updated>2020-05-28T15:05:08+00:00</updated>
   <id>https://www.dromotherm.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -18,7 +18,7 @@
     <link href="https://www.dromotherm.com/2020/05/master_trainee/"/>
     <updated>2020-05-27T00:00:00+00:00</updated>
     <id>https://www.dromotherm.com/2020/05/master_trainee</id>
-    <content type="html"><![CDATA[<p>Fébron SEVI est monté à bord du projet Dromotherm en avril 2020 donc en plein période de confinement liée au COVID-19.</p>
+    <content type="html"><![CDATA[<p>Fébron SEVI est monté à bord du projet Dromotherm en avril 2020, en plein période de confinement liée au COVID-19.</p>
 
 <p>Originaire du Bénin et après un bachelor et un master 1 de génie électrique au Burkina Faso, agé de 22 ans, Fébron est actuellement 
 en dernière année de master 2 Ingénierie Énergies Durables à l’Institut National des Sciences Appliquées de Rouen(INSA)</p>
@@ -27,9 +27,7 @@ en dernière année de master 2 Ingénierie Énergies Durables à l’Institut N
 
 <p>L’idée est d’évaluer leur robustesse vis à vis du modèle 2D du Cerema et de faire le bon choix, entre rapidité et précision…..</p>
 
-<p>Une première approche du modèle 0D:</p>
-
-<p>https://github.com/seviprince/dromotherm/blob/master/Modelisation%200D.ipynb</p>
+<p><a href="Première approche du modèle 0D">https://github.com/seviprince/dromotherm/blob/master/Modelisation%200D.ipynb</a></p>
 
 <p>Fébron a aussi commencé à étudier le couplage d’un modèle de bâtiment au dromotherme, afin de pouvoir réaliser un premier 
 dimensionnement du futur démonstrateur. Bien entendu, il restera à intercaler un modèle de stockage entre le bâtiment et 

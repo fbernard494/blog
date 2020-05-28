@@ -5,14 +5,14 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 15:04:12 +0000</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 15:04:12 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2020 15:05:08 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2020 15:05:08 +0000</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
     
       <item>
         <title>nouveau venu à bord :-)</title>
-        <description>&lt;p&gt;Fébron SEVI est monté à bord du projet Dromotherm en avril 2020 donc en plein période de confinement liée au COVID-19.&lt;/p&gt;
+        <description>&lt;p&gt;Fébron SEVI est monté à bord du projet Dromotherm en avril 2020, en plein période de confinement liée au COVID-19.&lt;/p&gt;
 
 &lt;p&gt;Originaire du Bénin et après un bachelor et un master 1 de génie électrique au Burkina Faso, agé de 22 ans, Fébron est actuellement 
 en dernière année de master 2 Ingénierie Énergies Durables à l’Institut National des Sciences Appliquées de Rouen(INSA)&lt;/p&gt;
@@ -21,9 +21,7 @@ en dernière année de master 2 Ingénierie Énergies Durables à l’Institut N
 
 &lt;p&gt;L’idée est d’évaluer leur robustesse vis à vis du modèle 2D du Cerema et de faire le bon choix, entre rapidité et précision…..&lt;/p&gt;
 
-&lt;p&gt;Une première approche du modèle 0D:&lt;/p&gt;
-
-&lt;p&gt;https://github.com/seviprince/dromotherm/blob/master/Modelisation%200D.ipynb&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;Première approche du modèle 0D&quot;&gt;https://github.com/seviprince/dromotherm/blob/master/Modelisation%200D.ipynb&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Fébron a aussi commencé à étudier le couplage d’un modèle de bâtiment au dromotherme, afin de pouvoir réaliser un premier 
 dimensionnement du futur démonstrateur. Bien entendu, il restera à intercaler un modèle de stockage entre le bâtiment et 
