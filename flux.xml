@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 15:23:42 +0000</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 15:23:42 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2020 15:24:41 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2020 15:24:41 +0000</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
     
@@ -37,6 +37,8 @@ le dromotherme.&lt;/p&gt;
         
         
         <category>dromotherm</category>
+        
+        <category>nrj master</category>
         
         <category>project management</category>
         
