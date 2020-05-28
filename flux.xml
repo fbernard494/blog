@@ -5,8 +5,8 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 15:15:15 +0000</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 15:15:15 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2020 15:16:19 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2020 15:16:19 +0000</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
     
@@ -23,7 +23,9 @@ en dernière année de master 2 Ingénierie Énergies Durables à l’Institut N
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/seviprince/dromotherm/blob/master/Modelisation%200D.ipynb&quot;&gt;notebook python retraçant une première approche du modèle 0D&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/1Dvs2D.png&quot; alt=&quot;1Dvs2D&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/master/1Dvs2D.png&quot; alt=&quot;1Dvs2D&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/master/model2D.png&quot; alt=&quot;2Dmodel&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fébron a aussi commencé à étudier le couplage d’un modèle de bâtiment au dromotherme, afin de pouvoir réaliser un premier 
 dimensionnement du futur démonstrateur. Bien entendu, il restera à intercaler un modèle de stockage entre le bâtiment et 
