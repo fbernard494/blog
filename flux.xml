@@ -5,80 +5,10 @@
     <description>On the way to a new energetic paradigm...  .</description>
     <link>https://www.dromotherm.com/</link>
     <atom:link href= "https://www.dromotherm.com/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jun 2020 14:51:38 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2020 14:51:38 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2020 14:58:39 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2020 14:58:39 +0000</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
-    
-      <item>
-        <title>comité de pilotage</title>
-        <description>&lt;p&gt;présents :&lt;/p&gt;
-
-&lt;p&gt;UCA/Institut Pascal : Evelyne TOUSSAINT&lt;/p&gt;
-
-&lt;p&gt;Eiffage : Jérome DHERBECOURT, Flavien GEISSLER, Simon POUGET,  J. VAN ROMPU,&lt;/p&gt;
-
-&lt;p&gt;Locie : Benoit STUTZ, Fébron SEVI,&lt;/p&gt;
-
-&lt;p&gt;Cerema : Alexandre CUER, Frédéric BERNARDIN,&lt;/p&gt;
-
-&lt;p&gt;Ryb : Marc PALOMARES&lt;/p&gt;
-
-&lt;p&gt;Tennerdis : Nadine AUBINAIS-LANFREY&lt;/p&gt;
-
-&lt;h2 id=&quot;présentation-de-lavancée-du-travail-sur-le-master-énergie&quot;&gt;Présentation de l’avancée du travail sur le master énergie&lt;/h2&gt;
-
-&lt;p&gt;1) Développement de modèles 0D et 1D pour simuler le comportement de l’échangeur dromotherm, avec calage sur le modèle 2D développé dans le cadre de travaux antérieurs par le Cerema. Pour l’instant, le modèle 1D semble être le plus proche du modèle 2D.&lt;/p&gt;
-
-&lt;p&gt;2) Couplage du modèle 1D avec un stockage et un bâtiment alimenté par une pompe à chaleur en sous-station&lt;/p&gt;
-
-&lt;p&gt;3) Utilisation lors des simulations d’une météo type à base de données synthétiques issues de la RT2012&lt;/p&gt;
-
-&lt;p&gt;4) Exploration de 3 cas d’usage :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Talon eau chaude sanitaire - ECS pendant 5/6 mois à compter du printemps&lt;/li&gt;
-  &lt;li&gt;Recharge du stockage pendant l’été puis chauffage d’un bâtiment pendant 6 mois d’hiver&lt;/li&gt;
-  &lt;li&gt;Fonctionnement de l’échangeur dromotherme en permanence pendant un an pour satisfaire des besoins ECS+chauffage globalisés&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nota :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Durant les nuits d’été, le stockage ‘chauffe’ la route : il faudrait développer plus avant le modèle pour piloter plus finement le dromotherme.&lt;/li&gt;
-  &lt;li&gt;Les besoins de chauffage sont calés sur ceux d’une maison de 150 m2 RT2012.&lt;/li&gt;
-  &lt;li&gt;Les besoins ECS représentent ceux d’une famille de 6 personnes. On est parti sur le principe d’un ballon tampon qui se chauffe toute la journée , ce qui n’est pas la réalité mais convient en terme d’ordre de grandeur&lt;/li&gt;
-  &lt;li&gt;Le couplage actuel ne traduit pas le phénomène de prise en glace du stockage&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Il est intéressant de noter que la production d’ECS pendant la saison chaude ne semble pas pénaliser la recharge du stockage en température&lt;/p&gt;
-
-&lt;p&gt;Pistes à creuser dans le cadre du master mécanique :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;jouer sur les propriétés des matériaux pour améliorer la conductivité dans l’échangeur dromotherm, ou pour agmenter la tortuosité (réseau granulaire dense). Pour l’instant, l’enrobé drainant est de granularité 0/14&lt;/li&gt;
-  &lt;li&gt;remplacer la couche d’étanchéité par un sable enrobé, l’objectif étant d’atteindre une porosité de 10-9 à 10-10&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Application en terme de réduction des ilôts de chaleur urbain : la collecte énergétique de l’été se traduit par un abaissement de la température de chaussée d’environ 5°C entre le jour et la nuit….&lt;/p&gt;
-
-&lt;p&gt;A noter qu’au fur et à mesure que la température dans le stockage augmente, le rendement du capteur dromotherm diminue&lt;/p&gt;
-
-&lt;h2 id=&quot;dimensionnement-et-choix-du-site&quot;&gt;dimensionnement et choix du site&lt;/h2&gt;
-
-&lt;p&gt;Pour simuler le besoin d’une maison RT2012 de 150m2 au sein du futur démonstrateur, on est parti sur une enveloppe en bois sur 20m2 de surface, peu isolée.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/master/dimensionnement.png&quot; alt=&quot;dimensionnement&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-        <link>https://www.dromotherm.com/2020/06/copil/</link>
-        <guid isPermaLink="true">https://www.dromotherm.com/2020/06/copil/</guid>
-        
-        
-        <category>copil</category>
-        
-        <category>dromotherm</category>
-        
-        <category>project management</category>
-        
-      </item>
     
       <item>
         <title>nouveau venu à bord :-)</title>
